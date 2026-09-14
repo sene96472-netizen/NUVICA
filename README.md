@@ -1,2 +1,2 @@
 # NUVICA
-A personal social media application project exploring software development, user experience, data, and future AI features.
+A personal social media application project designed to explore modern digital experiences, software development, user interaction, and future AI-powered features.
